@@ -10,5 +10,9 @@
     "ahmad": {
         "password": "1234",
         "role": "user"
+    },
+    "laras": {
+        "password": "lasras",
+        "role": "user"
     }
 }
